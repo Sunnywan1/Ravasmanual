@@ -1,0 +1,116 @@
+{
+  "weegsysteem_Taalkeuze": [
+    {
+      "weegsystemen": [
+        {
+          "weegsysteem": "xPico240",
+          "taalkeuze": "Nederlands",
+          "beschrijving": [ {"Stap 1": "stap 1 : doe deze stap",
+            "Stap 2": "Stap 2 : doe deze stap",
+            "Stap 3": "Stap 3 : doe deze stap" } ],
+          "ja_nee_vraag": [ {
+            "Ja": "Ja",
+            "Nee": "Nee"
+          }]
+        },
+        {
+          "weegsysteem": "xPico240",
+          "taalkeuze": "English",
+          "beschrijving": [ {"Stap 1": "Step 3 : do this step",
+            "Stap 2": "Step 3 : do this step",
+            "Stap 3": "Step 3 : do this step" } ],
+          "ja_nee_vraag": [ {
+            "Ja": "Yes",
+            "Nee": "No"
+          }]
+        },
+        {
+          "weegsysteem": "xPico240",
+          "taalkeuze": "Deutsche",
+          "beschrijving": [ {"Stap 1": "Schritt 1: Führen Sie diesen Schritt aus",
+            "Stap 2": "Schritt 2: Führen Sie diesen Schritt aus",
+            "Stap 3": "Schritt 3: Führen Sie diesen Schritt aus" } ],
+          "ja_nee_vraag": [ {
+            "Ja": "Ja",
+            "Nee": "Nein"
+          }]
+        },
+        {
+          "weegsysteem": "xPicoWifi",
+          "taalkeuze": "Nederlands",
+          "beschrijving": [ {"Stap 1": "stap 1 : doe deze stap",
+            "Stap 2": "Stap 2 : doe deze stap",
+            "Stap 3": "Stap 3 : doe deze stap" } ],
+          "ja_nee_vraag": [ {
+            "Ja": "Ja",
+            "Nee": "Nee"
+          }]
+        },
+        {
+          "weegsysteem": "xPicoWifi",
+          "taalkeuze": "English",
+          "beschrijving": [ {"Stap 1": "Step 1 : do this step",
+            "Stap 2": "Step 2 : do this step",
+            "Stap 3": "Step 3 : do this step" } ],
+          "ja_nee_vraag": [ {
+            "Ja": "Yes",
+            "Nee": "No"
+          }]
+        },
+        {
+          "weegsysteem": "xPicoWifi",
+          "taalkeuze": "Deutsche",
+          "beschrijving": [ {"Stap 1": "Schritt 1: Führen Sie diesen Schritt aus",
+            "Stap 2": "Schritt 2: Führen Sie diesen Schritt aus",
+            "Stap 3": "Schritt 3: Führen Sie diesen Schritt aus" } ],
+          "ja_nee_vraag": [ {
+            "Ja": "Ja",
+            "Nee": "Nein"
+          }]
+        }
+      ]
+    }
+  ],
+  "taalkeuzes": [
+    {
+      "taalkeuze": [
+        {
+          "taalkeuze": "Nederlands",
+          "landcode": "NL"
+        },
+        {
+          "taalkeuze": "English",
+          "landcode": "EN"
+        },
+        {
+          "taalkeuze": "Deutsche",
+          "landcode": "DE"
+        }
+      ]
+    }
+  ],
+  "weegsytemen": [
+    {
+      "weegsysteem": [
+        {
+          "weegsysteem": "xPico240",
+          "adresbalk": [{
+            "192.168.0.1": "192.168.0.1",
+            "xPico.latronix.com": "xPico.latronix.com"
+          }],
+          "weegsysteem_netwerk": "xPico240_xxxxxx",
+          "ip_address": "192.168.0.1"
+        },
+        {
+          "weegsysteem": "xPicoWifi",
+          "adresbalk": [{
+            "192.168.0.1": "192.168.0.1",
+            "xPico.latronix.com": "xPico.latronix.com"
+          }],
+          "weegsysteem_netwerk": "xPicoWifi_xxxxxx",
+          "ip_address": "192.168.0.1"
+        }
+      ]
+    }
+  ]
+}
