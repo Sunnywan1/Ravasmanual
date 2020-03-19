@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6397e69b-7617-4b86-ba75-fe609f0dfc2c" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6397e69b-7617-4b86-ba75-fe609f0dfc2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ravasmanual.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ravasmanual.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/DutchFunction/DutchFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/DutchFunction/DutchFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/English_xPico240/SelectNetworkEnglish240View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/English_xPico240/SelectNetworkEnglish240View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/English_xPicoWifi/SelectNetworkEnglishWifiView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/English_xPicoWifi/SelectNetworkEnglishWifiView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/German/German_xPico240/SelectNetworkGerman240View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/German/German_xPico240/SelectNetworkGerman240View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/German/German_xPicoWifi/SelectNetworkGermanWifiView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/German/German_xPicoWifi/SelectNetworkGermanWifiView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/JsonReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/JsonReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Models/Taalkeuze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Models/Taalkeuze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Models/Weegsysteem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Models/Weegsysteem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Models/Weegsysteem_Taalkeuze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Models/Weegsysteem_Taalkeuze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Weegsysteem_TaalkeuzeView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Weegsysteem_TaalkeuzeView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/META-INF/Ravasmanual.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/English/English_xPico240/SelectNetworkEnglish240View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/English/English_xPico240/SelectNetworkEnglish240View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/German/German_xPico240/SelectNetworkGerman240View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/German/German_xPico240/SelectNetworkGerman240View.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,112 +46,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/Weegsysteem_TaalkeuzeView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="90" selection-start-line="29" selection-start-column="90" selection-end-line="29" selection-end-column="90" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/JsonReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="38" column="89" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/Models/Taalkeuze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/Models/Weegsysteem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/German/German_xPicoWifi/SelectNetworkGermanWifiView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/German/German_xPico240/SelectNetworkGerman240View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Default/Models/Weegsysteem_Taalkeuze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="44" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -153,173 +67,29 @@
       <dir>C:\Users\Sunny\Downloads\Ravasmanual\src\Default\English</dir>
     </dirStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/pom.xml" />
-        <option value="$PROJECT_DIR$/src/ReadJson.java" />
-        <option value="$PROJECT_DIR$/src/Taalkeuze_weegsysteemView.java" />
-        <option value="$PROJECT_DIR$/src/Taalkeuze.java" />
-        <option value="$PROJECT_DIR$/src/Weegsysteem.java" />
-        <option value="$PROJECT_DIR$/src/JsonRavas.json" />
-        <option value="$PROJECT_DIR$/src/Weegsysteem_Taalkeuze.java" />
-        <option value="$PROJECT_DIR$/src/JsonReader.java" />
-        <option value="$PROJECT_DIR$/src/SelecteerNetwerkView.java" />
-        <option value="$PROJECT_DIR$/src/Dutch_xPico240/SelecteerNetwerkView.java" />
-        <option value="$PROJECT_DIR$/src/Dutch_xPico240/SelectNetworkDutch.java" />
-        <option value="$PROJECT_DIR$/src/Weegsysteem_TaalkeuzeView.java" />
-        <option value="$PROJECT_DIR$/src/Dutch_xPico240/SelectNetworkDutchView.java" />
-        <option value="$PROJECT_DIR$/src/Main/Weegsysteem_TaalkeuzeView.java" />
-        <option value="$PROJECT_DIR$/src/Models/Weegsysteem_Taalkeuze.java" />
-        <option value="$PROJECT_DIR$/src/Models/Taalkeuze.java" />
-        <option value="$PROJECT_DIR$/src/Models/Weegsysteem.java" />
-        <option value="$PROJECT_DIR$/src/Weegsysteem_TaalkeuzeView/Weegsysteem_TaalkeuzeView.java" />
-        <option value="$PROJECT_DIR$/src/Default/Models/Taalkeuze.java" />
-        <option value="$PROJECT_DIR$/src/Default/Models/Weegsysteem.java" />
-        <option value="$PROJECT_DIR$/src/Default/Models/Weegsysteem_Taalkeuze.java" />
-        <option value="$PROJECT_DIR$/src/Default/Main.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch_xPico240/SelectNetworkDutchView.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch_xPicoWifi/SelectNetworkDutchWifiView.java" />
-        <option value="$PROJECT_DIR$/src/Default/German_xPicoWifi/SelectNetwerkGermanWifi240.java" />
-        <option value="$PROJECT_DIR$/src/Default/German_xPico240/SelectNetworkGerman240View.java" />
-        <option value="$PROJECT_DIR$/src/Default/English_xPicoWifi/SelectNetworkEnglishWifiView.java" />
-        <option value="$PROJECT_DIR$/src/Default/English_xPico240/SelectNetworkEnglish240View.java" />
-        <option value="$PROJECT_DIR$/src/Default/German_xPicoWifi/SelectNetworkGermanWifiView.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch_xPico240/SelectNetworkDutch240View.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.java" />
-        <option value="$PROJECT_DIR$/src/Default/German/German_xPicoWifi/SelectNetworkGermanWifiView.java" />
-        <option value="$PROJECT_DIR$/src/Default/German/German_xPico240/SelectNetworkGerman240View.java" />
-        <option value="$PROJECT_DIR$/src/Default/English/English_xPicoWifi/SelectNetworkEnglishWifiView.java" />
-        <option value="$PROJECT_DIR$/src/Default/English/English_xPico240/SelectNetworkEnglish240View.java" />
-        <option value="$PROJECT_DIR$/src/Default/Weegsysteem_TaalkeuzeView.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch/DutchFunction.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.java" />
-        <option value="$PROJECT_DIR$/src/Default/JsonReader.java" />
-        <option value="$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="380" />
-    <option name="y" value="65" />
-    <option name="width" value="1080" />
-    <option name="height" value="1105" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="Dutch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="Dutch" type="462c0819:PsiDirectoryNode" />
-              <item name="Dutch_xPico240" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="Dutch" type="462c0819:PsiDirectoryNode" />
-              <item name="Dutch_xPicoWifi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="Dutch" type="462c0819:PsiDirectoryNode" />
-              <item name="DutchFunction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="English" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="German" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="German" type="462c0819:PsiDirectoryNode" />
-              <item name="German_xPico240" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="German" type="462c0819:PsiDirectoryNode" />
-              <item name="German_xPicoWifi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ravasmanual" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ravasmanual" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Default" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ZFdols4LWEFSsUzmA3i9zAjhTv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584365702958" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../json-simple-1.1.1 (1).jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -328,18 +98,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sunny\Downloads\Ravasmanual\.idea" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
@@ -385,44 +143,78 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="146903000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.23288591" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.50143266" side_tool="true" weight="0.64686996" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33569404" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3611898" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719547" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.094630875" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Project_Structure" timestamp="1584439429052">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Project_Structure/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584439429052" />
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1584620522940">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584620522940" />
+    <state x="1128" y="589" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584438999625">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1128" y="589" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584438999625" />
+    <state x="1110" y="410" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1584439786775">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="410" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584439786775" />
+    <state x="986" y="441" key="FileChooserDialogImpl" timestamp="1584625000663">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="986" y="441" key="FileChooserDialogImpl/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625000663" />
+    <state width="2517" height="407" key="GridCell.Tab.0.bottom" timestamp="1584625576124">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="407" key="GridCell.Tab.0.bottom/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
+    <state width="2517" height="407" key="GridCell.Tab.0.center" timestamp="1584625576124">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="407" key="GridCell.Tab.0.center/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
+    <state width="2517" height="407" key="GridCell.Tab.0.left" timestamp="1584625576124">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="407" key="GridCell.Tab.0.left/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
+    <state width="2517" height="407" key="GridCell.Tab.0.right" timestamp="1584625576124">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="407" key="GridCell.Tab.0.right/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
+    <state width="2517" height="441" key="GridCell.Tab.1.bottom" timestamp="1584622982378">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="441" key="GridCell.Tab.1.bottom/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584622982378" />
+    <state width="2517" height="441" key="GridCell.Tab.1.center" timestamp="1584622982378">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="441" key="GridCell.Tab.1.center/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584622982378" />
+    <state width="2517" height="441" key="GridCell.Tab.1.left" timestamp="1584622982378">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="441" key="GridCell.Tab.1.left/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584622982378" />
+    <state width="2517" height="441" key="GridCell.Tab.1.right" timestamp="1584622982378">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="441" key="GridCell.Tab.1.right/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584622982378" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1584624847157">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584624847157" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584624811679">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584624811679" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584625589021">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625589021" />
+    <state x="984" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584439518225">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="984" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584439518225" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -458,265 +250,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="268" selection-start-line="268" selection-end-line="268" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Ravasmanual/JsonReader.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/Ravasmanual/Weegsysteem_Taalkeuze.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/Ravasmanual/Weegsysteem_TaalkeuzeView.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13804">
-          <caret line="862" selection-start-line="862" selection-end-line="862" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/jfr.jar!/com/oracle/jrockit/jfr/FlightRecorder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/application/PlatformImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4403">
-          <caret line="325" selection-start-line="325" selection-end-line="325" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JsonRavas.json" />
-    <entry file="file://$PROJECT_DIR$/src/Taalkeuze.java" />
-    <entry file="file://$PROJECT_DIR$/src/Weegsysteem.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dutch_xPico240/SelectNetworkDutch.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dutch_xPico240/SelecteerNetwerkView.java" />
-    <entry file="file://$PROJECT_DIR$/src/JsonReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/Weegsysteem_Taalkeuze.java" />
-    <entry file="file://$PROJECT_DIR$/src/Weegsysteem_TaalkeuzeView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main/JsonReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main/Weegsysteem_TaalkeuzeView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Models/Taalkeuze.java" />
-    <entry file="file://$PROJECT_DIR$/src/Models/Weegsysteem.java" />
-    <entry file="file://$PROJECT_DIR$/src/Models/Weegsysteem_Taalkeuze.java" />
-    <entry file="file://$PROJECT_DIR$/src/Nieuwe map/Weegsysteem_TaalkeuzeView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dutch_xPico240/SelectNetworkDutchView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Weegsysteem_TaalkeuzeView/Weegsysteem_TaalkeuzeView.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/security/AccessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5865">
-          <caret line="370" column="31" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch_xPicoWifi/SelectNetworkDutchView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch_xPico240/SelectNetworkDutchView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/German_xPicoWifi/SelectNetwerkGermanWifi240.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch_xPicoWifi/SelectNetworkDutchWifiView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/English_xPico240/SelectNetworkEnglish240View.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/English_xPicoWifi/SelectNetworkEnglishWifiView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/German_xPicoWifi/SelectNetworkGermanWifiView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/German_xPico240/SelectNetworkGerman240View.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch_xPico240/SelectNetworkDutch240View.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch/Dutch_xPicoWifi/df.java" />
-    <entry file="file://$PROJECT_DIR$/src/Default/JsonRavas.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/English/English_xPicoWifi/SelectNetworkEnglishWifiView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/English/English_xPico240/SelectNetworkEnglish240View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Weegsysteem_TaalkeuzeView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="90" selection-start-line="29" selection-start-column="90" selection-end-line="29" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/JsonReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="38" column="89" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Models/Taalkeuze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Models/Weegsysteem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/German/German_xPicoWifi/SelectNetworkGermanWifiView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/German/German_xPico240/SelectNetworkGerman240View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Models/Weegsysteem_Taalkeuze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Ravasmanual</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

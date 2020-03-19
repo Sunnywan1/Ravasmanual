@@ -1,5 +1,6 @@
 package Default.German.German_xPico240;
 
+import Default.German.GermanFunction.GermanFunction;
 import Default.Weegsysteem_TaalkeuzeView;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
@@ -12,26 +13,27 @@ public class SelectNetworkGerman240View extends GridPane {
     private Text txtTutorial;
     private ComboBox boxYesNo;
     private Button btnSave, btnBack;
+    private GermanFunction germanFunction;
 
 
     public SelectNetworkGerman240View (FlowPane mainpane) {
 
-        txtTutorial = new Text("This is German xPico240");
+        //call the function of the other class
+        germanFunction = new GermanFunction();
+        germanFunction.Ja_nein_combobox();
+
+        txtTutorial = new Text("This is Dutch xPico240");
 
         boxYesNo = new ComboBox();
-        boxYesNo.getItems().addAll(
-                "Yes",
-                "No"
-        );
+        boxYesNo.getItems().addAll(germanFunction.getQuestionSplitJa(),germanFunction.getQuestionSplitNein());
 
-        btnSave = new Button("Next");
-        btnBack = new Button("Back");
+
+        btnSave = new Button("Volgende");
+        btnBack = new Button("Terug");
         btnBack.setOnAction(event -> {
             mainpane.getChildren().clear();
             new Weegsysteem_TaalkeuzeView(mainpane);
         });
-
-
 
 
         add(txtTutorial, 0, 0);

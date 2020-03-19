@@ -20,7 +20,7 @@ public class DutchFunction {
         String ja_nee_vraag;
 
         //stream
-        Stream<Weegsysteem_Taalkeuze> o =  jr.weegsysteem_taalkeuze.weegsysteem_taalkeuzeList.stream().filter(v -> v.getTaalkeuze().equals("Nederlands") && v.getWeegsysteem().equals("xPico240"));
+        Stream<Weegsysteem_Taalkeuze> o =  jr.weegsysteem_taalkeuze.weegsysteem_taalkeuzeList.stream().filter(v -> v.getTaalkeuze().equals("Nederlands"));
         //het resultaat toevoegen aan de listview
         o.forEach(v -> test.add(v.getJa_nee_vraag()));
 
