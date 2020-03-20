@@ -12,10 +12,16 @@ public class GermanFunction {
     public JsonReader jr;
     private String questionSplitJa,questionSplitNein;
 
-    public void Ja_nein_combobox() {
+    public GermanFunction(){
         //get data from Jsonfile
         jr = new JsonReader();
         jr.getTaalkeuze_weegsysteemData();
+
+    }
+
+    public void Ja_nein_combobox() {
+
+        //Get object from ArrayList
         List<Object> test = new ArrayList<>();
         String ja_nein_question;
 

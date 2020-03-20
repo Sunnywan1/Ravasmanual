@@ -12,10 +12,15 @@ public class EnglishFunction {
     public JsonReader jr;
     private String questionSplitYes,questionSplitNo;
 
-    public void Yes_no_combobox() {
+    public EnglishFunction(){
         //get data from Jsonfile
         jr = new JsonReader();
         jr.getTaalkeuze_weegsysteemData();
+
+    }
+
+    public void Yes_no_combobox() {
+        //Get object from ArrayList
         List<Object> test = new ArrayList<>();
         String yes_no_question;
 

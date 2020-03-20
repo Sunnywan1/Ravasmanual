@@ -10,12 +10,17 @@ import java.util.stream.Stream;
 public class DutchFunction {
 
     public JsonReader jr;
-    private String vraagSplitJa,vraagSplitNee;
+    private String vraagSplitJa,vraagSplitNee, beschrijvingSplitStap1, beschrijvingSplitStap2;
 
-    public void Ja_nee_combobox() {
+    public DutchFunction() {
         //get data from Jsonfile
         jr = new JsonReader();
         jr.getTaalkeuze_weegsysteemData();
+
+    }
+
+    public void Ja_nee_combobox() {
+        //Get object from ArrayList
         List<Object> test = new ArrayList<>();
         String ja_nee_vraag;
 
@@ -31,9 +36,7 @@ public class DutchFunction {
         System.out.println(vraagSplitNee);
     }
 
-    public void beschrijvingText(){
-    //    Stream<Weegsysteem_T
-    }
+
 
     public String getVraagSplitJa() {
         return vraagSplitJa;
@@ -47,7 +50,25 @@ public class DutchFunction {
         return vraagSplitNee;
     }
 
+    public String getBeschrijvingSplitStap1() {
+        return beschrijvingSplitStap1;
+    }
+
+    public void setBeschrijvingSplitStap1(String beschrijvingSplitStap1) {
+        this.beschrijvingSplitStap1 = beschrijvingSplitStap1;
+    }
+
+    public String getBeschrijvingSplitStap2() {
+        return beschrijvingSplitStap2;
+    }
+
+    public void setBeschrijvingSplitStap2(String beschrijvingSplitStap2) {
+        this.beschrijvingSplitStap2 = beschrijvingSplitStap2;
+    }
+
     public void setVraagSplitNee(String vraagSplitNee) {
         this.vraagSplitNee = vraagSplitNee;
+
+
     }
 }
