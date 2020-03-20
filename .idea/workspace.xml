@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6397e69b-7617-4b86-ba75-fe609f0dfc2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPico240/PasswordQuestionDutch240View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/DutchFunction/DutchFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/DutchFunction/DutchFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/EnglishFunction/EnglishFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/EnglishFunction/EnglishFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/English_xPico240/SelectNetworkEnglish240View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/English/English_xPico240/SelectNetworkEnglish240View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/German/GermanFunction/GermanFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/German/GermanFunction/GermanFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ravasmanual/Default/JsonRavas.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ravasmanual/Default/JsonRavas.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/Dutch/DutchFunction/DutchFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPico240/SelectNetworkDutch240View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/Dutch/Dutch_xPicoWifi/SelectNetworkDutchWifiView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Default/English/EnglishFunction/EnglishFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/English/EnglishFunction/EnglishFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/English/English_xPico240/SelectNetworkEnglish240View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/English/English_xPico240/SelectNetworkEnglish240View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Default/German/GermanFunction/GermanFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/German/GermanFunction/GermanFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/JsonRavas.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/JsonRavas.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,10 +150,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="358" key="#Project_Structure/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584439429052" />
-    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1584634543601">
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1584711966607">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584634543601" />
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584711966607" />
     <state x="1128" y="589" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584438999625">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -155,26 +167,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="986" y="441" key="FileChooserDialogImpl/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625000663" />
-    <state width="2517" height="407" key="GridCell.Tab.0.bottom" timestamp="1584702298943">
+    <state width="2517" height="407" key="GridCell.Tab.0.bottom" timestamp="1584719247613">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="407" key="GridCell.Tab.0.bottom/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
-    <state width="2517" height="407" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584702298943" />
-    <state width="2517" height="407" key="GridCell.Tab.0.center" timestamp="1584702298943">
+    <state width="2517" height="407" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584719247613" />
+    <state width="2517" height="407" key="GridCell.Tab.0.center" timestamp="1584719247613">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="407" key="GridCell.Tab.0.center/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
-    <state width="2517" height="407" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584702298943" />
-    <state width="2517" height="407" key="GridCell.Tab.0.left" timestamp="1584702298943">
+    <state width="2517" height="407" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584719247613" />
+    <state width="2517" height="407" key="GridCell.Tab.0.left" timestamp="1584719247613">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="407" key="GridCell.Tab.0.left/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
-    <state width="2517" height="407" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584702298943" />
-    <state width="2517" height="407" key="GridCell.Tab.0.right" timestamp="1584702298943">
+    <state width="2517" height="407" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584719247613" />
+    <state width="2517" height="407" key="GridCell.Tab.0.right" timestamp="1584719247613">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="407" key="GridCell.Tab.0.right/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625576124" />
-    <state width="2517" height="407" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584702298943" />
+    <state width="2517" height="407" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584719247613" />
     <state width="2517" height="441" key="GridCell.Tab.1.bottom" timestamp="1584622982378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -199,11 +211,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584624811679" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584698522528">
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584702843582">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="976" y="524" key="com.intellij.ide.util.TipDialog/-1920.5.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1584625589021" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584698522528" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.5.1920.1040@0.0.2560.1400" timestamp="1584702843582" />
     <state x="984" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584439518225">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

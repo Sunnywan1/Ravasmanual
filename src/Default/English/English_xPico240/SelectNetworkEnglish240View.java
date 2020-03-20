@@ -22,8 +22,9 @@ public class SelectNetworkEnglish240View extends GridPane {
         //call the function of the other class
         englishFunction = new EnglishFunction();
         englishFunction.Yes_no_combobox();
+        englishFunction.descriptionEnglishText();
 
-        txtTutorial = new Text("This is Dutch xPico240");
+        txtTutorial = new Text(englishFunction.getDescriptionSplitStep1());
 
         boxYesNo = new ComboBox();
         boxYesNo.getItems().addAll(englishFunction.getQuestionSplitYes(),englishFunction.getQuestionSplitNo());

@@ -24,8 +24,8 @@ public class SelectNetworkDutchWifiView extends GridPane {
                 "No"
         );
 
-        btnSave = new Button("Next");
-        btnBack = new Button("Back");
+        btnSave = new Button("Volgende");
+        btnBack = new Button("Terug");
         btnBack.setOnAction(event -> {
             mainpane.getChildren().clear();
             new Weegsysteem_TaalkeuzeView(mainpane);

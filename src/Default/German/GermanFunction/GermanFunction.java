@@ -30,6 +30,7 @@ public class GermanFunction {
         //het resultaat toevoegen aan de listview
         o.forEach(v -> test.add(v.getJa_nee_vraag()));
 
+        //split into each value
         ja_nein_question = test.get(0).toString();
         setQuestionSplitJa (ja_nein_question.split(",")[0]);
         setQuestionSplitNein (ja_nein_question.split(",")[1]);

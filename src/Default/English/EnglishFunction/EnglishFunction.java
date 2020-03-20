@@ -10,7 +10,8 @@ import java.util.stream.Stream;
 public class EnglishFunction {
 
     public JsonReader jr;
-    private String questionSplitYes,questionSplitNo;
+    private String questionSplitYes,questionSplitNo,
+            descriptionSplitStep1, descriptionSplitStep2, descriptionSplitStep3;
 
     public EnglishFunction(){
         //get data from Jsonfile
@@ -36,8 +37,20 @@ public class EnglishFunction {
         System.out.println(questionSplitNo);
     }
 
-    public void beschrijvingText(){
-        //    Stream<Weegsysteem_T
+    public void descriptionEnglishText(){
+        //Get object from ArrayList
+        List<Object> test = new ArrayList<>();
+        String descriptionEnglish;
+
+        //stream
+        Stream<Weegsysteem_Taalkeuze> o = jr.weegsysteem_taalkeuze.weegsysteem_taalkeuzeList.stream().filter(v -> v.getTaalkeuze().equals("English") && v.getWeegsysteem().equals("xPico240"));
+        o.forEach(v -> test.add(v.getBeschrijving()));
+
+        //split into each value
+        descriptionEnglish = test.get(0).toString();
+        setDescriptionSplitStep1(descriptionEnglish.split(",")[0]);
+        setDescriptionSplitStep2(descriptionEnglish.split(",")[1]);
+        setDescriptionSplitStep3(descriptionEnglish.split(",")[2]);
     }
 
     public String getQuestionSplitYes() {
@@ -54,5 +67,29 @@ public class EnglishFunction {
 
     public void setQuestionSplitNo(String questionSplitNo) {
         this.questionSplitNo = questionSplitNo;
+    }
+
+    public String getDescriptionSplitStep1() {
+        return descriptionSplitStep1;
+    }
+
+    public void setDescriptionSplitStep1(String descriptionSplitStep1) {
+        this.descriptionSplitStep1 = descriptionSplitStep1;
+    }
+
+    public String getDescriptionSplitStep2() {
+        return descriptionSplitStep2;
+    }
+
+    public void setDescriptionSplitStep2(String descriptionSplitStep2) {
+        this.descriptionSplitStep2 = descriptionSplitStep2;
+    }
+
+    public String getDescriptionSplitStep3() {
+        return descriptionSplitStep3;
+    }
+
+    public void setDescriptionSplitStep3(String descriptionSplitStep3) {
+        this.descriptionSplitStep3 = descriptionSplitStep3;
     }
 }
